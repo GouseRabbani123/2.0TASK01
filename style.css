@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(225, 236, 184);
+}
+#head_first{
+    background-color: rgba(189, 27, 27, 0.726);
+    text-align: center;
+    padding:10px;
+    color:white;
+    margin-top: 0px;
+}
+#aster{
+    color:crimson;
+}
+#first_table,tr.row,td.row{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td.row1{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 70%;
+}
+td.row2{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 55%;
+    
+}
+#row3{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 55%;
+}
+#italic{
+    color:blue;
+}
+#but{
+    text-align:center;
+}
